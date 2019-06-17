@@ -99,7 +99,7 @@ export default {
       minRating: '',
       maxRating: '',
       order: 'asc',
-      offset: 1,
+      offset: 0,
       startDate: '',
       endDate: '',
       total: 0,
